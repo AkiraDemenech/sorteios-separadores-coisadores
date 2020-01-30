@@ -53,4 +53,4 @@ if __name__ == '__main__':
 #	sorteador.sorteador.notas(sorteador.sorteador.fechar())
 	t = sorteador.sorteador.time() - t
 	print(t,'segundos gastos\n\tFINAL\t',*sorteador.sorteador.localtime()[:6])
-	input('Enter para continuar....\n')
+	input('Enter para continuar....\n\t')

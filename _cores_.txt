@@ -1,0 +1,10 @@
+[
+"Azul",
+"Amarela",
+"Verde",
+"Vermelha",
+"Rosa",
+"Laranja",
+"Branca",
+"Preta"
+]

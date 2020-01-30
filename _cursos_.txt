@@ -1,0 +1,4 @@
+[
+"curso1","curso1.ingressantes",
+"curso2","curso2.ingressantes"
+]
